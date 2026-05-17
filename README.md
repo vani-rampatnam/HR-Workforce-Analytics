@@ -61,7 +61,18 @@ The goal is to enable **data-driven HR decision-making** and improve employee re
 - Improves overall **employee experience and organizational stability**  
 
 ---
+## 📊 Dashboard Preview
 
+### Workforce Overview
+![Workforce Overview](images/workforce_overview.png)
+
+### Attrition Analysis
+![Attrition Analysis](images/attrition_analysis.png)
+
+### Salary & Tenure
+![Salary Tenure](images/salary_tenure.png)
+
+---
 ## 🚀 How to Use  
 1. Open the Power BI (HR Workforce Analytics.pbix) file  
    Live Dashboard Link : 
